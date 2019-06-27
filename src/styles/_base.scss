@@ -1,0 +1,23 @@
+body {
+  font-family: 'Lora', serif;
+  margin: 0;
+  background: url("../images/background.png");
+}
+body h1 {
+  font-family: 'Prata', serif;
+}
+.site {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+.site-content {
+  padding: 0 4rem;
+  flex-grow: 1;
+  margin-top: 6vh;
+}
+
+a {
+  color: white;
+}
