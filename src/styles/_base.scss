@@ -2,6 +2,9 @@ body {
   font-family: 'Lora', serif;
   margin: 0;
   background: url("../images/background.png");
+  background-size:     cover;                      /* <------ */
+  background-repeat:   no-repeat;
+  background-position: center center;              /* optional, center the image */
 }
 body h1 {
   font-family: 'Prata', serif;

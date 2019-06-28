@@ -7,21 +7,15 @@ tags:
 
 ![How to get out of a Toxic Work Environment](../../images/how_to_get_out_of_a_toxic_work_environment.jpeg)
 
-                                    It’s a Monday, the Monday
 
-                                    I want it to be Friday
-
-                                    The Monday, The Monday
-
-                                    I know it’s so blue
-
-                                    So blue and blue
-
-                                    I can’t help but glue
-
-                                    The Monday, The Monday
-
-                                     I want it to be Friday
+"It’s a Monday, the Monday
+I want it to be Friday
+The Monday, The Monday
+I know it’s so blue
+So blue and blue
+I can’t help but glue
+The Monday, The Monday
+ I want it to be Friday"
 
 This is the first thing that just rhymed in my mind while writing about the Toxic Workplace. Let me quickly define the terminology. The environment wherein the work culture, the people or any combination of these and few other things make you feel so terrible and worrisome that it affects your whole life so badly which you might not have imagined ever. The definition and the perception vary from person to person but mainly there are three kinds of attitude.
 

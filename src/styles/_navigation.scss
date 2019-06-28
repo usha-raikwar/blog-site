@@ -1,4 +1,9 @@
 .page-navigation {
+  display: flex;
+    justify-content: center;
+    @media screen and (max-width: 600px) {
+      flex-direction: column;
+    }
   margin: 2rem 0;
   text-align: center;
   a {
