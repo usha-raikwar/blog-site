@@ -8,7 +8,7 @@ header {
   background-color: rgb(221, 126, 146);
   padding: 0rem 1rem;
   line-height: 10px;
-
+  box-shadow: 0rem 1rem 1rem 1px #888;
   a {
     text-decoration: none;
     color:white;
@@ -16,6 +16,6 @@ header {
   }
   nav {
     align-self: center;
-    padding: 5px 0px;
+    padding: 10px 0px;
   }
 }

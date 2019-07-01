@@ -5,7 +5,7 @@
     flex-direction: column;
     text-align: center;
   }
-  padding: 1rem;
+ // padding: 1rem;
 }
 .post-list__thumbnail {
   padding: 1rem;
@@ -13,5 +13,9 @@
 
 .post-list__content {
   padding: 1rem;
-  text-align: left;
+  text-align: left; 
+}
+
+.blog-text{
+  text-align: justify;
 }
