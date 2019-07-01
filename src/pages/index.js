@@ -18,7 +18,7 @@ const IndexPage = () => (
       </p>
       
       <p>
-      Apart from my this, I am currently pursuing UI/UX design course from Interactin Design Foundation.
+      Apart from my this, I am currently pursuing UI/UX design course from Interaction Design Foundation.
       When I am not working, I am either enhancing my Graphic design skills, do workout including Gym and Yoga, reading books or spending time with my family.
       </p>
     </div>
