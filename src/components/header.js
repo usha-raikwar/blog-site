@@ -7,7 +7,9 @@ const Header = ({ siteTitle }) => (
   <header>
     <div className="header_logo">
       <h1>
-       <img src={logo} alt='Logo' width="52" height="52"/>
+       <Link to="/">
+        <img src={logo} alt='Logo' width="52" height="52"/>
+       </Link>
         <Link to="/">{siteTitle}</Link>
       </h1>
     </div>
