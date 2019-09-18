@@ -15,8 +15,8 @@ div.gallery:hover {
 }
 
 div.gallery img {
- width: 600px;
- height: 500px;
+ width: 100%;
+ height: auto;
 }
 
 div.desc {
@@ -30,24 +30,22 @@ div.desc {
 
 .responsive {
  padding: 6px;
- //float: left;
-// width: auto;
+ width: 100%;
+ height: auto;
 }
 
 @media only screen and (max-width: 700px) {
  .responsive {
-   //width: 49.99999%;
-  // width: auto;
-  flex: 1 1 100%;
+  width: 100%;
+  height: auto;
    margin: 6px 0;
  }
 }
 
 @media only screen and (max-width: 500px) {
  .responsive {
-   flex: 1 1 100%;
-  // width: 100%;
-  //width: auto;
+  width: 100%;
+ height: auto;
  }
 }
 
