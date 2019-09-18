@@ -15,6 +15,7 @@ const Header = ({ siteTitle }) => (
     </div>
     <nav className="menu">
       <Link to="/blog">Blog</Link>
+      <Link to="/portfolio">Portfolio</Link>
       <Link to="/contact">Contact</Link>
     </nav>
     <link href="https://fonts.googleapis.com/css?family=Cormorant+Upright|Lora|Prata&display=swap" rel="stylesheet" />
