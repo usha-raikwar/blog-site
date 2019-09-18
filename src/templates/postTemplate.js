@@ -7,11 +7,12 @@ import SEO from '../components/seo';
 const PostTemplate = ({ data }) => {
   const { markdownRemark } = data;
   const { frontmatter, html } = markdownRemark;
+
   return (
     <Layout>
       <SEO
         title="Home"
-        keywords={[`gatsby`, `application`, `react`, ...frontmatter.tags]}
+        keywords={[`gatsby`, `application`, `react`]}
       />
       <section>
         <div>
